@@ -11,6 +11,12 @@ ul {
 
 }
 
+
+.test {
+  font-size: 18px
+}
+
+
 /* Style the list items */
 ul li {
   cursor: pointer;
